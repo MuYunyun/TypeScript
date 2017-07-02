@@ -1,6 +1,6 @@
-## 本文对 TypeScript 作了一个简介，并对该项目中的例子作了配套解析。
+## 本文对 TypeScript 作了一个简介，并对该项目中的例子作了相应分析。
+![](http://oqhtscus0.bkt.clouddn.com/5e7b640325806920160f538d7c50f5d7.jpg-muyy)
 
-## TypeScript 简介
 TypeScript 并不是一个完全新的语言, 它是 JavaScript 的超集，为 JavaScript 的生态增加了类型机制，并最终将代码编译为纯粹的 JavaScript 代码。
 TypeScript 由 Microsoft(算上 Angular 2 的话加上 Google)开发和维护的一种开源编程语言。 它支持 JavaScript 的所有语法和语义，同时通过作为 ECMAScript 的超集来提供一些额外的功能，如类型检测和更丰富的语法。下图显示了 TypeScript 与 ES5，ES2015，ES2016 之间的关系。
 
@@ -347,3 +347,7 @@ console.log(outPut);
 console.log(outPut2);
 ```
 
+## 参考资料
+* [TypeScript 中文文档](https://www.gitbook.com/book/zhongsp/typescript-handbook/details)
+* [TypeScript](http://pinggod.com/2016/Typescript/)
+* [TypeScript for Angular 2 - Part 1 (An Introduction)](http://naywinmyint.com/typescript-for-angular-2-part-1/)
